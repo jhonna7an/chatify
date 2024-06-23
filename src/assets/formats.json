@@ -1,0 +1,12 @@
+[
+  {
+    "value": "json",
+    "label": "JSON",
+    "icon": "RiText"
+  },
+  {
+    "value": "html",
+    "label": "HTML",
+    "icon": "TbJson"
+  }
+]
